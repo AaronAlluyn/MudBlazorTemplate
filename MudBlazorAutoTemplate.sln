@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MudBlazorAutoTemplate", "MudBlazorAutoTemplate\MudBlazorAutoTemplate\MudBlazorAutoTemplate.csproj", "{01ABE7D1-5AC4-4AFF-845D-B2D646B27FAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MudBlazorAutoTemplate.Client", "MudBlazorAutoTemplate\MudBlazorAutoTemplate.Client\MudBlazorAutoTemplate.Client.csproj", "{3AF1488F-BD54-4571-B695-F6A8A36324FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01ABE7D1-5AC4-4AFF-845D-B2D646B27FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01ABE7D1-5AC4-4AFF-845D-B2D646B27FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01ABE7D1-5AC4-4AFF-845D-B2D646B27FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01ABE7D1-5AC4-4AFF-845D-B2D646B27FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AF1488F-BD54-4571-B695-F6A8A36324FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF1488F-BD54-4571-B695-F6A8A36324FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF1488F-BD54-4571-B695-F6A8A36324FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF1488F-BD54-4571-B695-F6A8A36324FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
